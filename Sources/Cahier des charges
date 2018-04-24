@@ -1,0 +1,88 @@
+Ok      Comprendre le fonctionnement des parametres optionnels
+        Calculer le nombre d'arguments opt grace a format
+            DOC : Each conversion specification is introduced by the % character
+        Determiner le type de chaque argument
+        Gerer la precision (Nombre de caractere affiche)
+            %6d (print as a decimal integer with a width of at least 6 wide)
+            %4f	(print as a floating point with a width of at least 4 wide)
+
+
+END :
+        Changer les messages d'erreurs dans errors.h
+-------------------------
+
+LES DIFFERENTS FLAGS DE PRINTF :
+
+-s : argument est une chaine de caractere, si pas de modif de longueur
+Voir ce que ca fait
+
+
+-S -ls : chaine de caracteres wchar_t* (Wide Character Type == Caractere Etendu)
+        -Comment reusir a les afficher : L"chaine"
+Voir ce que ca fait
+
+-p : adresse de pointeur affiche en hexadecimal
+Voir ce que ca fait
+
+-d -i: int converti en nombre decimal signe (signed decimal)
+Voir ce que ca fait
+
+-D - ld: long int converti en nombre decimal signe
+Voir ce que ca fait
+
+-o : int converti en nombre octal non-signé
+Voir ce que ca fait
+
+-O -lo : long int converti en nombre octal non-signé
+Voir ce que ca fait
+
+-u : int converti en nombre decimal non-signé
+Voir ce que ca fait
+
+-U -lu : ong int converti en nombre decinal non-signé
+Voir ce que ca fait
+
+-x :
+Voir ce que ca fait
+
+-X -lx:
+Voir ce que ca fait
+
+-c : caractere ascii standard
+        -Comment afficher : ''
+Voir ce que ca fait
+
+-C -lc: wint_t = caractere ascii etendu
+        -Comment afficher : L''
+Voir ce que ca fait
+
+% : un simple '%' est affiche. (L'argument exact est donc '%%')
+
+#
+0
+-
++
+ (espace)
+
+hh
+h
+l
+ll
+j
+z
+
+
+MODIFICATEUR DE LONGEUR
+
+hh :
+
+h :
+
+l : La conversion suivante suivante conrrespond a un long int ou un unsigned int
+
+ll :
+
+j :
+
+z :
+

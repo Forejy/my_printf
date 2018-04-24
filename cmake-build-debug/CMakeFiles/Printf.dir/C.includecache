@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+stdlib.h
+-
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c
+stdarg.h
+-
+../Libft/libft.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c
+stdarg.h
+-
+../Libft/libft.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+Printf.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.h
+errors.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c
+../Libft/libft.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.h
+
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c
+Fct param opt.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.h
+stdio.h
+-
+../Libft/libft.h
+/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+wchar.h
+-
+
