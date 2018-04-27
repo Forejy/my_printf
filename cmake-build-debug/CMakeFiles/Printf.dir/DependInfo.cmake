@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c" "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o"
-  "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c" "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/Printf.c.o"
-  "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c" "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/errors.c.o"
-  "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c" "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/main.c.o"
+  "/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.c" "/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o"
+  "/cygdrive/d/Documents/42/Printf/Sources/Printf.c" "/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/Printf.c.o"
+  "/cygdrive/d/Documents/42/Printf/Sources/errors.c" "/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/errors.c.o"
+  "/cygdrive/d/Documents/42/Printf/Sources/main.c" "/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles/Printf.dir/Sources/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
@@ -18,7 +18,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/libft/CMakeFiles/ft.dir/DependInfo.cmake"
+  "/cygdrive/d/Documents/42/Printf/cmake-build-debug/libft/CMakeFiles/ft.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

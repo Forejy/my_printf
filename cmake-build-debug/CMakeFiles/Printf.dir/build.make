@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/joffr/.CLion2017.3/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
+RM = /cygdrive/c/Users/joffr/.CLion2017.3/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jmarques/Documents/Projets_42_brouillon/Printf
+CMAKE_SOURCE_DIR = /cygdrive/d/Documents/42/Printf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/d/Documents/42/Printf/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Printf.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Printf.dir/flags.make
 
 CMakeFiles/Printf.dir/Sources/main.c.o: CMakeFiles/Printf.dir/flags.make
 CMakeFiles/Printf.dir/Sources/main.c.o: ../Sources/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Printf.dir/Sources/main.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/main.c.o   -c /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Printf.dir/Sources/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/main.c.o   -c /cygdrive/d/Documents/42/Printf/Sources/main.c
 
 CMakeFiles/Printf.dir/Sources/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Printf.dir/Sources/main.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c > CMakeFiles/Printf.dir/Sources/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/Documents/42/Printf/Sources/main.c > CMakeFiles/Printf.dir/Sources/main.c.i
 
 CMakeFiles/Printf.dir/Sources/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Printf.dir/Sources/main.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c -o CMakeFiles/Printf.dir/Sources/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/Documents/42/Printf/Sources/main.c -o CMakeFiles/Printf.dir/Sources/main.c.s
 
 CMakeFiles/Printf.dir/Sources/main.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Printf.dir/Sources/main.c.o.provides.build: CMakeFiles/Printf.dir/Sou
 
 CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o: CMakeFiles/Printf.dir/flags.make
 CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o: ../Sources/Fct\ param\ opt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o   -c "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o   -c "/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.c"
 
 CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c" > CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.c" > CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.i
 
 CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c" -o CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.c" -o CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.s
 
 CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o.provides.build: CMakeFiles/Print
 
 CMakeFiles/Printf.dir/Sources/Printf.c.o: CMakeFiles/Printf.dir/flags.make
 CMakeFiles/Printf.dir/Sources/Printf.c.o: ../Sources/Printf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Printf.dir/Sources/Printf.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/Printf.c.o   -c /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Printf.dir/Sources/Printf.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/Printf.c.o   -c /cygdrive/d/Documents/42/Printf/Sources/Printf.c
 
 CMakeFiles/Printf.dir/Sources/Printf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Printf.dir/Sources/Printf.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c > CMakeFiles/Printf.dir/Sources/Printf.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/Documents/42/Printf/Sources/Printf.c > CMakeFiles/Printf.dir/Sources/Printf.c.i
 
 CMakeFiles/Printf.dir/Sources/Printf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Printf.dir/Sources/Printf.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c -o CMakeFiles/Printf.dir/Sources/Printf.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/Documents/42/Printf/Sources/Printf.c -o CMakeFiles/Printf.dir/Sources/Printf.c.s
 
 CMakeFiles/Printf.dir/Sources/Printf.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/Printf.dir/Sources/Printf.c.o.provides.build: CMakeFiles/Printf.dir/S
 
 CMakeFiles/Printf.dir/Sources/errors.c.o: CMakeFiles/Printf.dir/flags.make
 CMakeFiles/Printf.dir/Sources/errors.c.o: ../Sources/errors.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Printf.dir/Sources/errors.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/errors.c.o   -c /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Printf.dir/Sources/errors.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Printf.dir/Sources/errors.c.o   -c /cygdrive/d/Documents/42/Printf/Sources/errors.c
 
 CMakeFiles/Printf.dir/Sources/errors.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Printf.dir/Sources/errors.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c > CMakeFiles/Printf.dir/Sources/errors.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/Documents/42/Printf/Sources/errors.c > CMakeFiles/Printf.dir/Sources/errors.c.i
 
 CMakeFiles/Printf.dir/Sources/errors.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Printf.dir/Sources/errors.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c -o CMakeFiles/Printf.dir/Sources/errors.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/Documents/42/Printf/Sources/errors.c -o CMakeFiles/Printf.dir/Sources/errors.c.s
 
 CMakeFiles/Printf.dir/Sources/errors.c.o.requires:
 
@@ -163,18 +163,18 @@ Printf_OBJECTS = \
 # External object files for target Printf
 Printf_EXTERNAL_OBJECTS =
 
-../Printf: CMakeFiles/Printf.dir/Sources/main.c.o
-../Printf: CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o
-../Printf: CMakeFiles/Printf.dir/Sources/Printf.c.o
-../Printf: CMakeFiles/Printf.dir/Sources/errors.c.o
-../Printf: CMakeFiles/Printf.dir/build.make
-../Printf: libft/libft.a
-../Printf: CMakeFiles/Printf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ../Printf"
+../Printf.exe: CMakeFiles/Printf.dir/Sources/main.c.o
+../Printf.exe: CMakeFiles/Printf.dir/Sources/Fct_param_opt.c.o
+../Printf.exe: CMakeFiles/Printf.dir/Sources/Printf.c.o
+../Printf.exe: CMakeFiles/Printf.dir/Sources/errors.c.o
+../Printf.exe: CMakeFiles/Printf.dir/build.make
+../Printf.exe: libft/libft.a
+../Printf.exe: CMakeFiles/Printf.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ../Printf.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Printf.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/Printf.dir/build: ../Printf
+CMakeFiles/Printf.dir/build: ../Printf.exe
 
 .PHONY : CMakeFiles/Printf.dir/build
 
@@ -190,6 +190,6 @@ CMakeFiles/Printf.dir/clean:
 .PHONY : CMakeFiles/Printf.dir/clean
 
 CMakeFiles/Printf.dir/depend:
-	cd /Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jmarques/Documents/Projets_42_brouillon/Printf /Users/jmarques/Documents/Projets_42_brouillon/Printf /Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug /Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug /Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/CMakeFiles/Printf.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/d/Documents/42/Printf/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/d/Documents/42/Printf /cygdrive/d/Documents/42/Printf /cygdrive/d/Documents/42/Printf/cmake-build-debug /cygdrive/d/Documents/42/Printf/cmake-build-debug /cygdrive/d/Documents/42/Printf/cmake-build-debug/CMakeFiles/Printf.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Printf.dir/depend
 

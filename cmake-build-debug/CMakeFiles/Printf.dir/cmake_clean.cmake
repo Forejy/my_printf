@@ -4,7 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Printf.dir/Sources/Printf.c.o"
   "CMakeFiles/Printf.dir/Sources/errors.c.o"
   "../Printf.pdb"
-  "../Printf"
+  "../Printf.exe"
+  "../libPrintf.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

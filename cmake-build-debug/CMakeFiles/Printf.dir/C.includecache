@@ -6,43 +6,47 @@
 
 #IncludeRegexTransform: 
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+/cygdrive/d/Documents/42/Printf/Libft/libft.h
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.c
+/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.c
 stdarg.h
 -
 ../Libft/libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+/cygdrive/d/Documents/42/Printf/Libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.h
+/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.c
+/cygdrive/d/Documents/42/Printf/Sources/Printf.c
 stdarg.h
 -
 ../Libft/libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+/cygdrive/d/Documents/42/Printf/Libft/libft.h
 Printf.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.h
+/cygdrive/d/Documents/42/Printf/Sources/Printf.h
 errors.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.h
+/cygdrive/d/Documents/42/Printf/Sources/errors.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Printf.h
+/cygdrive/d/Documents/42/Printf/Sources/Printf.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.c
+/cygdrive/d/Documents/42/Printf/Sources/errors.c
 ../Libft/libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+/cygdrive/d/Documents/42/Printf/Libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/errors.h
+/cygdrive/d/Documents/42/Printf/Sources/errors.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/main.c
+/cygdrive/d/Documents/42/Printf/Sources/main.c
 Fct param opt.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Sources/Fct param opt.h
+/cygdrive/d/Documents/42/Printf/Sources/Fct param opt.h
 stdio.h
 -
 ../Libft/libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/Libft/libft.h
+/cygdrive/d/Documents/42/Printf/Libft/libft.h
 wchar.h
+-
+unistd.h
+-
+locale.h
 -
 

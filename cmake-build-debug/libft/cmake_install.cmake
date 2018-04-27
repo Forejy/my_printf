@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jmarques/Documents/Projets_42_brouillon/Printf/libft
+# Install script for directory: /cygdrive/d/Documents/42/Printf/libft
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

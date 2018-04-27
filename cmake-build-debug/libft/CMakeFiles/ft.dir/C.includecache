@@ -6,293 +6,293 @@
 
 #IncludeRegexTransform: 
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_atoi.c
+/cygdrive/d/Documents/42/Printf/libft/ft_atoi.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_atoi_base.c
+/cygdrive/d/Documents/42/Printf/libft/ft_atoi_base.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_bzero.c
+/cygdrive/d/Documents/42/Printf/libft/ft_bzero.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_charac_is_base.c
+/cygdrive/d/Documents/42/Printf/libft/ft_charac_is_base.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_charac_is_sign.c
+/cygdrive/d/Documents/42/Printf/libft/ft_charac_is_sign.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_charac_is_whitespace.c
+/cygdrive/d/Documents/42/Printf/libft/ft_charac_is_whitespace.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_concat_params.c
+/cygdrive/d/Documents/42/Printf/libft/ft_concat_params.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_create_elem.c
+/cygdrive/d/Documents/42/Printf/libft/ft_create_elem.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_isalnum.c
+/cygdrive/d/Documents/42/Printf/libft/ft_isalnum.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_isalpha.c
+/cygdrive/d/Documents/42/Printf/libft/ft_isalpha.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_isascii.c
+/cygdrive/d/Documents/42/Printf/libft/ft_isascii.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_isdigit.c
+/cygdrive/d/Documents/42/Printf/libft/ft_isdigit.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_isprint.c
+/cygdrive/d/Documents/42/Printf/libft/ft_isprint.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_itoa.c
+/cygdrive/d/Documents/42/Printf/libft/ft_itoa.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_at.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_at.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_clear.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_clear.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_cpy.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_cpy.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_find.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_find.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_last.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_last.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_print.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_print.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_push_back.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_push_back.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_push_front.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_push_front.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_push_params.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_push_params.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_reverse.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_reverse.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_size.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_size.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_list_sort.c
+/cygdrive/d/Documents/42/Printf/libft/ft_list_sort.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstadd.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstadd.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstdel.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstdel.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstdelone.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstdelone.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstiter.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstiter.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstmap.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstmap.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_lstnew.c
+/cygdrive/d/Documents/42/Printf/libft/ft_lstnew.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memalloc.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memalloc.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memccpy.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memccpy.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memchr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memchr.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memcmp.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memcmp.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memcpy.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memcpy.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memdel.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memdel.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memmove.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memmove.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_memset.c
+/cygdrive/d/Documents/42/Printf/libft/ft_memset.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_numvalue_in_base.c
+/cygdrive/d/Documents/42/Printf/libft/ft_numvalue_in_base.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putchar.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putchar.c
 unistd.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putchar_fd.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putchar_fd.c
 unistd.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putendl.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putendl.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putendl_fd.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putendl_fd.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putnbr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putnbr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putnbr_base.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putnbr_base.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putnbr_fd.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putnbr_fd.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putstr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putstr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putstr_fd.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putstr_fd.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_putstr_non_printable.c
+/cygdrive/d/Documents/42/Printf/libft/ft_putstr_non_printable.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_str_is_alpha.c
+/cygdrive/d/Documents/42/Printf/libft/ft_str_is_alpha.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strcat.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strcat.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strchr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strchr.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strclr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strclr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strcmp.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strcmp.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strcpy.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strcpy.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strdel.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strdel.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strdup.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strdup.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strequ.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strequ.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_striter.c
+/cygdrive/d/Documents/42/Printf/libft/ft_striter.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_striteri.c
+/cygdrive/d/Documents/42/Printf/libft/ft_striteri.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strjoin.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strjoin.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strlcat.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strlcat.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strlen.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strlen.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strmap.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strmap.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strmapi.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strmapi.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strncat.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strncat.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strncmp.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strncmp.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strncpy.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strncpy.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strnequ.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strnequ.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strnew.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strnew.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strnstr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strnstr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strrchr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strrchr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strsplit.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strsplit.c
 stdlib.h
 -
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strstr.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strstr.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strsub.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strsub.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strtrim.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strtrim.c
 libft.h
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_strupcase.c
+/cygdrive/d/Documents/42/Printf/libft/ft_strupcase.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_tolower.c
+/cygdrive/d/Documents/42/Printf/libft/ft_tolower.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/ft_toupper.c
+/cygdrive/d/Documents/42/Printf/libft/ft_toupper.c
 
-/Users/jmarques/Documents/Projets_42_brouillon/Printf/libft/libft.h
+/cygdrive/d/Documents/42/Printf/libft/libft.h
 stdlib.h
 -
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jmarques/Documents/Projets_42_brouillon/Printf
+# Install script for directory: /cygdrive/d/Documents/42/Printf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,7 +29,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/libft/cmake_install.cmake")
+  include("/cygdrive/d/Documents/42/Printf/cmake-build-debug/libft/cmake_install.cmake")
 
 endif()
 
@@ -41,5 +41,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jmarques/Documents/Projets_42_brouillon/Printf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/d/Documents/42/Printf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
