@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.9)
 project(Libft C)
 
-set(CMAKE_C_STANDARD 90)
+set(CMAKE_C_STANDARD 99)
 
 set(LIB_SRCS
         ft_atoi.c

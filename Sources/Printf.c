@@ -2,7 +2,7 @@
 #include "../Libft/libft.h"
 #include "Printf.h"
 #include "errors.h"
-/*
+
 int			count_ap(char const *str)
 {
 	int		count;
@@ -10,60 +10,31 @@ int			count_ap(char const *str)
 	count = 0;
 	while (*str)
 	{
-		if (*str == '%')
+		if (*str == '%' && *(str - 1) != '%')
 			count++;
 		str++;
 	}
 	return (count);
 }
 
-t_arg		**type_ap(char const *str, int nb_arg)
-{
-
-	t_arg	**rang_et_type;
-
-	if (!(rang_et_type = malloc(sizeof(rang_et_type*)) * (nb_arg + 1)))
-		exit_with_msg(ERROR_MALLOC_FAILED);
-
-	while (*str != '\0')
-	{
-		if (*str == '%')
-		{
-			str++;
-			if (*str == 's')
-			{
-
-			}
-		}
-		str++;
-	}
-
-}
 
 int			ft_printf(const char *format, ...)
 {
 	va_list		ap;
-	t_arg		**rang_et_type;
-	int			rang;
-	int			nb_arg;
+	int			i;
+	type_fct_t	*type_fct;
+	if (!(type_fct = malloc(sizeof(type_fct_t) * 50)))
+		exit_with_msg(ERROR_MALFORMED_PIECE);
 
 	nb_arg = count_ap(format); // Compte le nombre d'arguments dans la chaine format
-	va_start(ap, rang);
-	rang_et_type = type_ap(format, nb_arg);
-	while (rang < nb_arg)
+	va_start(ap, format);
+	while (format[i])
 	{
-		if (rang_et_type[rang]->type == "int")
+		if (format[i] == '%' && test_format(format[i + 1]))
+			//A chaque fois que j'ai un +- 0 il faut utiliser la fonction print_fields
 		{
-			ft_putnbr(va_arg(ap, int));
 		}
-		if (rang_et_type[rang]->type == "char")
-		{
-			ft_putchar(va_arg(ap, char);
-		}
-		if (rang_et_type[rang]->type == "char*")
-		{
-			ft_putstr(va_arg(ap, char *))
-		}
+		else if (format[i] == '%' && test_fields(format[i + 1]))
 	}
 	return (1);
-}*/
+}

@@ -47,6 +47,8 @@ wchar.h
 -
 unistd.h
 -
+errno.h
+-
 locale.h
 -
 
